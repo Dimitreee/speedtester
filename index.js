@@ -1,4 +1,4 @@
-const imageAddr = "http://wallpaperswide.com/download/shadow_of_the_tomb_raider_2018_puzzle_video_game-wallpaper-7680x4800.jpg" + "?n=" + Math.random();
+const imageAddr = "https://wallpaperswide.com/download/shadow_of_the_tomb_raider_2018_puzzle_video_game-wallpaper-7680x4800.jpg" + "?n=" + Math.random();
 let startTime, endTime;
 const downloadSize = 5616998; //5.36Mb
 const roundedDecimals = 2;
